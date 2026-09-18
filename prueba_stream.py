@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 
-# Título
+# Título  2
 st.title("Mi primera aplicación Streamlit")
 
 # Barra lateral
